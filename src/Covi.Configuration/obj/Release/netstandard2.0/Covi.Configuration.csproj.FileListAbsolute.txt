@@ -1,0 +1,9 @@
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/bin/Release/netstandard2.0/Covi.Configuration.deps.json
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/bin/Release/netstandard2.0/Covi.Configuration.dll
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/bin/Release/netstandard2.0/Covi.Configuration.pdb
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.csproj.AssemblyReference.cache
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.AssemblyInfoInputs.cache
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.AssemblyInfo.cs
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.csproj.CoreCompileInputs.cache
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.dll
+/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/Release/netstandard2.0/Covi.Configuration.pdb

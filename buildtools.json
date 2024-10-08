@@ -38,6 +38,66 @@
     "createInRoot": true,
     "disable": false
   },
-  "projectSecrets": null,
+  "projectSecrets": {
+    "Covi.Configuration": {
+      "disable": false,
+      "delimiter": ";",
+      "prefix": "BuildTools_",
+      "className": "Secrets",
+      "namespace": "Helpers",
+      "properties": [
+        {
+          "name": "EndpointUrl",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "SecretsProvider_EncryptionKeyFieldName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "SecretsProvider_DeviceIdentifierFieldName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "SecretsProvider_InitializedFlagFieldName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "SecretsProvider_IsFirstRunFieldName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "AppCenter_iOS_Secret",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "AppCenter_Android_Secret",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "PushNotifications_NotificationChannelName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "PushNotifications_NotificationHubName",
+          "type": "String",
+          "isArray": false
+        },
+        {
+          "name": "PushNotifications_ListenConnectionString",
+          "type": "String",
+          "isArray": false
+        }
+      ]
+    }
+  },
   "debug": false
 }
