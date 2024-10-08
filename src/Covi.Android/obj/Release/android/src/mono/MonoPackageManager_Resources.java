@@ -20,9 +20,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.SwipeRefreshLayout.dll",
 		"Xamarin.AndroidX.ViewPager.dll",
 		"Xamarin.Google.Android.Material.dll",
-		"Covi.Client.dll",
-		"Covi.Configuration.dll",
-		"Covi.dll",
 		"DryIoc.dll",
 		"DynamicData.dll",
 		"FFImageLoading.dll",
@@ -90,6 +87,9 @@ public class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Base.dll",
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Tasks.dll",
+		"Covi.Client.dll",
+		"Covi.Configuration.dll",
+		"Covi.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

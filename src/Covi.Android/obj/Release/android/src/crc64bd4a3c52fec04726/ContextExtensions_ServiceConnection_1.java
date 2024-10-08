@@ -13,6 +13,8 @@ public class ContextExtensions_ServiceConnection_1
 		__md_methods = 
 			"n_onServiceConnected:(Landroid/content/ComponentName;Landroid/os/IBinder;)V:GetOnServiceConnected_Landroid_content_ComponentName_Landroid_os_IBinder_Handler:Android.Content.IServiceConnectionInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onServiceDisconnected:(Landroid/content/ComponentName;)V:GetOnServiceDisconnected_Landroid_content_ComponentName_Handler:Android.Content.IServiceConnectionInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
+			"n_onBindingDied:(Landroid/content/ComponentName;)V:GetOnBindingDied_Landroid_content_ComponentName_Handler:Android.Content.IServiceConnection, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
+			"n_onNullBinding:(Landroid/content/ComponentName;)V:GetOnNullBinding_Landroid_content_ComponentName_Handler:Android.Content.IServiceConnection, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
 		mono.android.Runtime.register ("ReactiveUI.ContextExtensions+ServiceConnection`1, ReactiveUI", ContextExtensions_ServiceConnection_1.class, __md_methods);
 	}
@@ -40,6 +42,22 @@ public class ContextExtensions_ServiceConnection_1
 	}
 
 	private native void n_onServiceDisconnected (android.content.ComponentName p0);
+
+
+	public void onBindingDied (android.content.ComponentName p0)
+	{
+		n_onBindingDied (p0);
+	}
+
+	private native void n_onBindingDied (android.content.ComponentName p0);
+
+
+	public void onNullBinding (android.content.ComponentName p0)
+	{
+		n_onNullBinding (p0);
+	}
+
+	private native void n_onNullBinding (android.content.ComponentName p0);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

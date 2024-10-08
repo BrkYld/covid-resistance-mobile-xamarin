@@ -15,16 +15,16 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid10.0"
+          "monoandroid11.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid10.0": {
+          "monoandroid11.0": {
             "projectReferences": {
               "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/Covi.Configuration.csproj": {
                 "projectPath": "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/Covi.Configuration.csproj"
@@ -37,7 +37,7 @@
         }
       },
       "frameworks": {
-        "monoandroid10.0": {
+        "monoandroid11.0": {
           "dependencies": {
             "LiteDB": {
               "target": "Package",
@@ -129,7 +129,7 @@
         "outputPath": "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -196,7 +196,7 @@
         "outputPath": "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -261,7 +261,7 @@
         "outputPath": "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
