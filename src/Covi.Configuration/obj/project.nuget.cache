@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZEGB+r2Llk=",
+  "success": true,
+  "projectFilePath": "/Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi.Configuration/Covi.Configuration.csproj",
+  "expectedPackageFiles": [
+    "/Users/burakyildirim/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/burakyildirim/.nuget/packages/mobile.buildtools/2.0.0.1007-pre/mobile.buildtools.2.0.0.1007-pre.nupkg.sha512",
+    "/Users/burakyildirim/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/burakyildirim/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>COVID Resistance</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.epam.crownresistance</string>
+	<string>io.appcircle.dashboard</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

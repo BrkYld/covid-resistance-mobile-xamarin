@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Covi
+build_property.ProjectDir = /Users/burakyildirim/Repository/covid-resistance-mobile-xamarin/src/Covi/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
